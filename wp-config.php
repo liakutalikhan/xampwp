@@ -23,10 +23,10 @@
 define( 'DB_NAME', 'xampwp_db' );
 
 /** MySQL database username */
-define( 'DB_USER', 'liakut' );
+define( 'DB_USER', 'sumon' );
 
 /** MySQL database password */
-define( 'DB_PASSWORD', 'liakut' );
+define( 'DB_PASSWORD', 'sumon' );
 
 /** MySQL hostname */
 define( 'DB_HOST', 'localhost' );
